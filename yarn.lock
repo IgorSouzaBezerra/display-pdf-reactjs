@@ -1436,6 +1436,11 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
+"@openbook/cloudpdf-viewer@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@openbook/cloudpdf-viewer/-/cloudpdf-viewer-1.0.0.tgz#29016a4b4778ecd8d540ae83fb0f097dfbee8f40"
+  integrity sha512-1gF/H3SBFv3hgBUgER83rDOX4ZlIU7SA6Qu5R/zHGSFw35iUt0+Q7SGzSU5Mq41Wm363IaogcqcOg7toXwV/ww==
+
 "@pmmmwh/react-refresh-webpack-plugin@0.4.3":
   version "0.4.3"
   resolved "https://registry.yarnpkg.com/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.4.3.tgz#1eec460596d200c0236bf195b078a5d1df89b766"
